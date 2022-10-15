@@ -1,6 +1,6 @@
 ### What is This?!
 
-This is a Test Application for the CKA/Prometheus.
+This is a Test Application for the [CKA/Prometheus](https://github.com/alifiroozi80/CKA/tree/main/Prometheus#monitor-own-app).
 
 It is a straightforward NodeJS application that exposes metrics on the `/metrics` endpoint.
 
